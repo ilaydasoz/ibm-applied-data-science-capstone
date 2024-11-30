@@ -17,12 +17,3 @@ This repository includes several Jupyter notebooks documenting the different sta
 3. **Feature Engineering**: Extracts key features that are most predictive of a successful landing.
 4. **Model Development and Evaluation**: Develops machine learning models to predict landing outcomes and evaluates their performance.
 5. **Interactive Dashboard**: Builds an interactive dashboard to visualize the data and predictions.
-
-## Tools and Technologies Used
-- **Python**: The programming language used for all code development.
-- **Pandas**: For data manipulation and analysis.
-- **NumPy**: For numerical computations.
-- **Matplotlib & Seaborn**: For data visualization.
-- **Scikit-Learn**: For model building and evaluation.
-- **Folium**: For geospatial data visualization.
-- **Jupyter Notebook**: For interactive code and documentation.
